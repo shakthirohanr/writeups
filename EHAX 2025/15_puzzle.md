@@ -4,7 +4,7 @@ In this challenge, we were given a website that had a 15 puzzle game. You had to
 
 ![](../resources/ehax_2025/1.png)
 
-This script calculates the best solution and sends the array of the moves to the server and moves on to the next puzzle until it gets another link.
+This script calculates the optimal solution, sends the array of moves to the server, and proceeds to the next puzzle until it receives a different link.
 
 ```python
 import logging
