@@ -7,4 +7,4 @@ This repository is for storing my writeups for various CTF's.
 
 ## EHAX 2025
 
- - [15 Puzzles](./EHAX%202025/15_puzzle.md)
+ - [15 Puzzle](./EHAX%202025/15_puzzle.md)
